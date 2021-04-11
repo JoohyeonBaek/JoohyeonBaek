@@ -3,13 +3,13 @@ Joo Hyeon Baek
 👋 Hello! I am a Data Analyst
 
 Language and Skills
-![java-icon](https://user-images.githubusercontent.com/52616995/114301930-ca863e00-9b01-11eb-9ae1-dd745a8a6ac0.png)
-![python-icon](https://user-images.githubusercontent.com/52616995/114301938-d114b580-9b01-11eb-876f-f7d72e835f0b.png)
-![r-lcon](https://user-images.githubusercontent.com/52616995/114301943-d5d96980-9b01-11eb-832e-6497a5ea59ae.png)
-![javascript-logo](https://user-images.githubusercontent.com/52616995/114301949-dbcf4a80-9b01-11eb-8bfd-d05493cd567c.png)
-![django-icon](https://user-images.githubusercontent.com/52616995/114301950-de31a480-9b01-11eb-92c8-c9c7b2ccda42.png)
-![jsp-logo](https://user-images.githubusercontent.com/52616995/114301953-df62d180-9b01-11eb-975e-5f52711c1618.png)
-![mariaDB-logo](https://user-images.githubusercontent.com/52616995/114301957-e4c01c00-9b01-11eb-90a5-3c249b95a13a.jpg)
+![java-icon](https://user-images.githubusercontent.com/52616995/114301930-ca863e00-9b01-11eb-9ae1-dd745a8a6ac0.png){: width="5%" height="5%"}
+![python-icon](https://user-images.githubusercontent.com/52616995/114301938-d114b580-9b01-11eb-876f-f7d72e835f0b.png){: width="5%" height="5%"}
+![r-lcon](https://user-images.githubusercontent.com/52616995/114301943-d5d96980-9b01-11eb-832e-6497a5ea59ae.png){: width="5%" height="5%"}
+![javascript-logo](https://user-images.githubusercontent.com/52616995/114301949-dbcf4a80-9b01-11eb-8bfd-d05493cd567c.png){: width="5%" height="5%"}
+![django-icon](https://user-images.githubusercontent.com/52616995/114301950-de31a480-9b01-11eb-92c8-c9c7b2ccda42.png){: width="5%" height="5%"}
+![jsp-logo](https://user-images.githubusercontent.com/52616995/114301953-df62d180-9b01-11eb-975e-5f52711c1618.png){: width="5%" height="5%"}
+![mariaDB-logo](https://user-images.githubusercontent.com/52616995/114301957-e4c01c00-9b01-11eb-90a5-3c249b95a13a.jpg){: width="5%" height="5%"}
 
 
 
