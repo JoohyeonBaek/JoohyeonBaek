@@ -5,7 +5,6 @@ Joo Hyeon Baek
 Language and Skills
 <br><br>
 <img src = "https://user-images.githubusercontent.com/52616995/114301930-ca863e00-9b01-11eb-9ae1-dd745a8a6ac0.png" width="50px" height="50px">
-<img src = "https://user-images.githubusercontent.com/52616995/114301930-ca863e00-9b01-11eb-9ae1-dd745a8a6ac0.png" width="50px" height="50px">
 <img src = "https://user-images.githubusercontent.com/52616995/114301938-d114b580-9b01-11eb-876f-f7d72e835f0b.png" width="50px" height="50px">
 <img src = "https://user-images.githubusercontent.com/52616995/114301943-d5d96980-9b01-11eb-832e-6497a5ea59ae.png" width="50px" height="50px">
 <img src = "https://user-images.githubusercontent.com/52616995/114301949-dbcf4a80-9b01-11eb-8bfd-d05493cd567c.png" width="50px" height="50px">
