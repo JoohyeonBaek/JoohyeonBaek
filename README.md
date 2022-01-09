@@ -1,6 +1,6 @@
 Joo Hyeon Baek
 
-👋 Hello! I am a Data Analyst
+👋 Hello!
 
 Language and Skills
 <br><br>
